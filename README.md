@@ -1,4 +1,4 @@
 - 👋 Aloha, I’m @w41k3r71516
 - 👀 I’m interested in UI/UX design and front end devep
-- 🌱 I’m currently learning CSS
+- 🌱 I’m currently learning Python
 - 📫 How to reach me @w41k3r.71516@gmail.com
